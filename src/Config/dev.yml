@@ -1,0 +1,8 @@
+debug_mode: true
+
+database:
+  driver: pdo_mysql
+  host: localhost
+  dbname: database
+  username: username
+  password: password
